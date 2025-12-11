@@ -344,7 +344,7 @@ footer .copy{
 }
 
 /* CELULARES */
-@media (max-width: 600px) {
+@media (max-width: 300px) {
     header nav {
         display: none; /* simplifica navegação em mobile */
     }
